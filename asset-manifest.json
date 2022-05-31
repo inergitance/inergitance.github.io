@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21dea4c4.chunk.css",
+    "main.js": "/static/js/main.6efed859.chunk.js",
+    "main.js.map": "/static/js/main.6efed859.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97274a78.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97274a78.js.map",
+    "static/js/2.e372a1d5.chunk.js": "/static/js/2.e372a1d5.chunk.js",
+    "static/js/2.e372a1d5.chunk.js.map": "/static/js/2.e372a1d5.chunk.js.map",
+    "static/js/3.6495536f.chunk.js": "/static/js/3.6495536f.chunk.js",
+    "03062970f40e91a27d45.module.wasm": "/03062970f40e91a27d45.module.wasm",
+    "static/js/3.6495536f.chunk.js.map": "/static/js/3.6495536f.chunk.js.map",
+    "static/js/4.4c8d154c.chunk.js": "/static/js/4.4c8d154c.chunk.js",
+    "static/js/4.4c8d154c.chunk.js.map": "/static/js/4.4c8d154c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.21dea4c4.chunk.css.map": "/static/css/main.21dea4c4.chunk.css.map",
+    "static/js/2.e372a1d5.chunk.js.LICENSE.txt": "/static/js/2.e372a1d5.chunk.js.LICENSE.txt",
+    "static/media/nautilus-logo-icon.svg": "/static/media/nautilus-logo-icon.6072d19c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97274a78.js",
+    "static/js/2.e372a1d5.chunk.js",
+    "static/css/main.21dea4c4.chunk.css",
+    "static/js/main.6efed859.chunk.js"
+  ]
+}
